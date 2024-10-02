@@ -16,4 +16,4 @@ Powered by Vuforia, place one of the books/images from the repository and view i
 - **Vuforia's Website:** [Vuforia Developer](https://developer.vuforia.com/home)
 
 ## Contact
-- For any questions or support, feel free to reach out.
+- For any questions or support, feel free to reach out: josegallardoharillo@gmail.com
